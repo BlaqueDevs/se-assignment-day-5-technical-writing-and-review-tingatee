@@ -60,9 +60,9 @@ iii.	Use Keywords - Include keywords in your headings to improve search engine o
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 
-i.	A brief description of the product and its purpose.
-ii.	Key features or benefits of the product.
-iii.	A quick start guide link or instructions.
+i.	A brief description of the product and its purpose.  
+ii.	Key features or benefits of the product.  
+iii.	A quick start guide link or instructions.  
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
 
